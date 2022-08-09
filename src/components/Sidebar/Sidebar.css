@@ -1,0 +1,31 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.sidebar img {
+    cursor: pointer;
+}
+
+.sidebar_ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 0;
+    transition: 0.5s;
+}
+
+.sidebar_ul_active {
+    height: 300px;
+}
+
+.sidebar_ul_li {
+    cursor: pointer;
+    list-style: none;
+    border-radius: 50px;
+    height: 26px;
+    width: 26px;
+}
