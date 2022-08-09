@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sticky-Notes/static/css/main.25ab0578.css",
+    "main.js": "/Sticky-Notes/static/js/main.f19ea8e5.js",
+    "static/media/add-create-new-plus-icon-20.png": "/Sticky-Notes/static/media/add-create-new-plus-icon-20.8c2fe6e2b84bdb634830.png",
+    "index.html": "/Sticky-Notes/index.html",
+    "main.25ab0578.css.map": "/Sticky-Notes/static/css/main.25ab0578.css.map",
+    "main.f19ea8e5.js.map": "/Sticky-Notes/static/js/main.f19ea8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ab0578.css",
+    "static/js/main.f19ea8e5.js"
+  ]
+}
